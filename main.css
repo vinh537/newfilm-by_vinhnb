@@ -3,7 +3,8 @@ html {
     background-size: 150% auto;
 }
 #tieude {
-    color: lightgreen;
+    color: #3366cc;
+    /*  rgb(251, 14, 255)*/
     text-align: center;
 }
 #hinh {
@@ -11,7 +12,7 @@ html {
     
 }
 #top {
-    background-color: black;
+    background-color: #ccf;
     text-align: center;
 }
 h1 {
